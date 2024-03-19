@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+  display:grid;
+}
+section{
+    width: 100%;
+}
+.bnfs{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.th{
+  height: 100vh;
+}
+.edittex{
+  color: rgb(0, 0, 0);
+  border: 5px solid rgb(237,154,162) ;
+}
